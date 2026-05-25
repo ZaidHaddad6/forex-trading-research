@@ -1,0 +1,9 @@
+# Live bot dependencies
+requests==2.31.0
+python-dotenv==1.0.0
+pandas==2.1.4
+numpy==1.26.2
+schedule==1.2.1
+
+# Backtesting framework
+yfinance>=0.2.40
